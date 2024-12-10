@@ -1,0 +1,3 @@
+Alex Davone,3000
+John Doe,2000
+Kate Blues,1000

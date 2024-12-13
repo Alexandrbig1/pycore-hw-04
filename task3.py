@@ -2,7 +2,6 @@ import sys
 from pathlib import Path
 from colorama import Fore, Style, init
 
-# Initialize colorama
 init(autoreset=True)
 
 def print_directory_structure(path, indent=0):
